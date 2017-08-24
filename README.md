@@ -1,2 +1,6 @@
 # docker-mapic-tools
-Docker image with a few bash tools
+Alpine with a few bash tools
+
+## Tools
+- pwgen
+- jq
